@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+Notes: 
+
+
+Review Chapter 7, sections 7.5.2 and 7.5.3 for Production database deployment
