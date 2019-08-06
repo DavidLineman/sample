@@ -32,3 +32,5 @@ Review Chapter 7, sections 7.5.2 and 7.5.3 for Production database deployment
 To Do: 
 
 Style the pagination -- Like in the overtime app
+
+Enable Fog gem and set up S3 for photo uploading in production (use Firehose guidance)
