@@ -17,6 +17,20 @@ marvin:
   activated: true
   activated_at: <%= Time.zone.now %>
 
+michael: 
+  name: Michael Naruto
+  email: mike@mikeman.com
+  password_digest: <%= User.digest('password') %>
+  activated: true
+  activated_at: <%= Time.zone.now %>
+
+mitch: 
+  name: Mitch Baywatch
+  email: mitch@baybabes.com
+  password_digest: <%= User.digest('password') %>
+  activated: true
+  activated_at: <%= Time.zone.now %>
+
 
 <% 30.times do |n| %>
 user_<%= n %>:
